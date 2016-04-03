@@ -1,8 +1,8 @@
 {
-  "name": "backgrid-select-all",
-  "repo": "wyuenho/backgrid-select-all",
+  "name": "backgrid-select-all-with-requirejs",
+  "repo": "rtpaulino/backgrid-select-all",
   "description": "Backgrid.js extension for multiple selections.",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "keywords": [
     "backbone",
     "backgrid"
